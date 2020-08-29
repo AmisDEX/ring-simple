@@ -1,12 +1,22 @@
 // Token Info
 // ===============================================================
-export const TOKEN_ADDRESS  = "0xac55641cbb734bdf6510d1bbd62e240c2409040f"
+export const TOKEN_ADDRESS  = "0xd8ebe4e6ac8d3c85e2f243e11e8b96c9b12c85af"
 export const TOKEN_NETWORK  = "ETC"
-export const TOKEN_NAME     = "Saturn DAO Token"
-export const TOKEN_SYMBOL   = "STRN"
-export const TOKEN_DECIMALS = 4
-export const TOKEN_STANDARD = "ERC223"
-export const TOKEN_LOGO     = "token-logo.png"
+export const TOKEN_NAME     = "AMIS"
+export const TOKEN_SYMBOL   = "AMIS"
+export const TOKEN_DECIMALS = 9
+export const TOKEN_STANDARD = "ERC20"
+export const TOKEN_LOGO     = "43f8c21028be612bfa5ac48e3348d005.png"
+
+// Token Info
+// ===============================================================
+export const TOKEN_ADDRESS  = "0x949bed886c739f1a3273629b3320db0c5024c719"
+export const TOKEN_NETWORK  = "ETH"
+export const TOKEN_NAME     = "AMIS"
+export const TOKEN_SYMBOL   = "AMIS"
+export const TOKEN_DECIMALS = 9
+export const TOKEN_STANDARD = "ERC20"
+export const TOKEN_LOGO     = "43f8c21028be612bfa5ac48e3348d005.png"
 
 
 // Header / Navigation
@@ -14,7 +24,7 @@ export const TOKEN_LOGO     = "token-logo.png"
 export const NAV_BRAND_LOGO = "logo-nav.png"
 export const NAV_BRAND      = "Saturn Network"
 export const MAIN_TITLE     = "Instant Swaps and Secure Trading"
-export const MAIN_TEXT      = "Saturn Network is a DEX protocol that enables direct wallet to wallet exchanges, powering easy and secure token trading for any Ethereum asset."
+export const MAIN_TEXT      = "AmisDex is deployed on Saturn Network, a DEX protocol that enables direct wallet to wallet exchanges, powering easy and secure token trading for any ETC/ETH ERC20-ERC223 assets."
 
 
 // Trading Competition / Leaderboard
