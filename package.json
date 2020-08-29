@@ -39,7 +39,9 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "web3": "^1.2.8",
-    "web3modal": "^1.7.0"
+    "web3modal": "^1.7.0",
+    "readable-stream": "^3.6.0",
+    "stream-browserify": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
